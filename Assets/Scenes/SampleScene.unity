@@ -425,3 +425,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerRigidbody: {fileID: 1698442964}
+  m_Speed: 5
